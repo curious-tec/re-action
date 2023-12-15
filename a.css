@@ -1,0 +1,38 @@
+body{
+    background-color: burlywood;
+
+}
+
+.header{
+    height: 100px;
+    background-color: aqua;
+    margin: 0;
+    
+    
+}
+.header h1{
+    text-align: center;
+    text-transform: capitalize;
+   padding: 15px;
+}
+
+.nav ul{
+    list-style-type: none;
+
+}
+.nav li{
+    display: inline;
+    padding: 10px;
+}
+.main{
+    padding-left: 50px;
+}
+.main p{
+    font-size: x-large;
+}
+.centre p
+{
+text-align: center;
+margin-top: 400px;
+
+}
