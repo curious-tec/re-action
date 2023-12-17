@@ -1,0 +1,14 @@
+
+.hidden {
+    display: none;
+}
+
+button{
+    background-color: aqua;
+    
+}
+
+button:hover{
+    transition-duration: 0ms;
+    background-color: blue;
+}
